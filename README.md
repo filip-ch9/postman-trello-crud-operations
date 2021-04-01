@@ -22,7 +22,7 @@ trelloBoardId # set it to trelloBoardId
 
 DONEListName # set initial value to DONEListId and current to DONE
 
-cardName # set the initial value LearnPostmanCardId and current Learn Postman Card
+cardName # set initial value LearnPostmanCardId and current Learn Postman Card
 
 ```
 
