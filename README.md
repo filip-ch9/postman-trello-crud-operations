@@ -12,7 +12,7 @@ for key variable set your trello key # google it to find your key
 
 same as for the token variable # google it 
 
-boardName # whatever name you want 
+boardName # My Board
 
 trelloAPIURL # set https://api.trello.com
 
