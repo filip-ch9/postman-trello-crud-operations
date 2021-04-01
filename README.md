@@ -10,7 +10,7 @@ set environment # trello environment
 
 for key variable set your trello key # google it to find your key 
 
-same as for the token variable # google it 
+same for the token variable # google it 
 
 boardName # My Board
 
